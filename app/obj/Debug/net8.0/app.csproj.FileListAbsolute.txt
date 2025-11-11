@@ -1,0 +1,5 @@
+/workspaces/2025_POO_ChatBot/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025_POO_ChatBot/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/2025_POO_ChatBot/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/2025_POO_ChatBot/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/2025_POO_ChatBot/app/obj/Debug/net8.0/app.sourcelink.json
