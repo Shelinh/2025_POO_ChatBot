@@ -1,5 +1,5 @@
 using System;
-using ChatBotApp.Messages;
+using ChatBotApp.Channels;
 
 namespace ChatBotApp.Channels
 {

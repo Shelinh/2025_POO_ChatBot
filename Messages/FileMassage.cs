@@ -1,3 +1,4 @@
+using System;
 namespace ChatBotApp.Messages
 {
     public class FileMessage : MediaMessage
